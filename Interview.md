@@ -1,14 +1,14 @@
 # Challenge 1
 
-What is a middleware?
+## What is a middleware?
 
-What is a promise what are some advantages to using promises over callbacks?
+## What is a promise what are some advantages to using promises over callbacks?
 
-What is the difference between a function declaration and a function expression?
+## What is the difference between a function declaration and a function expression?
 
 
 
-What is difference between
+## What is difference between
 
 ```javascript
 const foo = function() {}
@@ -17,9 +17,7 @@ const bar = () => {}
 
 
 
-Refactor this code 
-
-**I'm not to sure about this questions**
+## How would you refactor this code explain what you would change and why
 
 ```javascript
 getUser(id)
@@ -36,10 +34,6 @@ getUser(id)
   		}).catch(error => handleError(error)) 
 }).catch(error => handleError(error))
 ```
-
-
-
-### 
 
 ---
 
